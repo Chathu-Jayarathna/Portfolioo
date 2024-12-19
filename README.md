@@ -7,9 +7,6 @@
   <h3 align="center">A Modern React.js Portfolio</h3>
 </div>
 
-
-#### Demo:[ https://adp-kyn.vercel.app/](https://chathu-jayarathna.github.io/Portfolioo/)
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
