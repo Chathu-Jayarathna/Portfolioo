@@ -18,7 +18,7 @@ function App() {
     { name: "About", link: "about" },
     { name: "Skills", link: "skills" },
     { name: "Experience", link: "workExperience" },
-    { name: "RecentProjects", link: "projects" },
+    { name: "Projects", link: "projects" },  // Changed RecentProjects to Projects
     { name: "Achievements", link: "achievements" },
     { name: "Contact", link: "contact" },
   ];
