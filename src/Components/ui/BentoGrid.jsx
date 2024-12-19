@@ -274,7 +274,7 @@ export const BentoGridItem = ({
           title="Resume"
           icon={<IoCopyOutline />}
           position="left"
-          handleClick={() => window.open('/path/to/resume.pdf', '_blank')}
+          handleClick={() => window.open('https://drive.google.com/file/d/1Te2yOjA9246FpLsXnZN0qgA3H1HwDIDd/view?usp=sharing', '_blank')}
           otherClasses="!bg-[#161A31] !text-white w-full max-w-xs mx-auto"
         />
       </div>
@@ -285,7 +285,7 @@ export const BentoGridItem = ({
           title="Video Introduction"
           icon={<IoCopyOutline />}
           position="left"
-          handleClick={() => window.open('https://link-to-video.com', '_blank')}
+          handleClick={() => window.open('https://youtu.be/19Ou49woKTY?si=MRN40ugvAeezINpH', '_blank')}
           otherClasses="!bg-[#161A31] !text-white w-full max-w-xs mx-auto"
         />
       </div>
