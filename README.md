@@ -1,11 +1,5 @@
-<div align="center">
-  <br />
-    <a href="">
-      <img src="https://ibb.co/tHys7S4" alt="Project Banner
-    </a>
-  <br />
-  <h3 align="center">A Modern React.js Portfolio</h3>
-</div>
+# A Modern ReactJS Portfolio
+![Portfolio Home](https://github.com/user-attachments/assets/7843031f-f949-4ed6-8669-5c8f73f2aa1b)
 
 ## Getting Started with Create React App
 
