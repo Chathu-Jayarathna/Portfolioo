@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="" alt="Project Banner">
+      ![1](https://github.com/Chathu-Jayarathna/Lithan-Projects/assets/124165734/d73b4804-722a-4b90-8ace-5ce4a43c7848)
     </a>
   <br />
   <h3 align="center">A Modern React.js Portfolio</h3>
