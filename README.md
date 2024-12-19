@@ -1,5 +1,5 @@
 # A Modern ReactJS Portfolio
-![Portfolio Home](https://github.com/user-attachments/assets/7843031f-f949-4ed6-8669-5c8f73f2aa1b)
+![image-removebg-preview](https://github.com/user-attachments/assets/815e8bd0-e710-47bc-9af4-cfa9aabc4c65)
 
 ## Getting Started with Create React App
 
