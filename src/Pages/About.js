@@ -32,7 +32,7 @@ export default Grid;
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "Crafting visually stunning, user-friendly websites with passion and precision",
     description: "",
     className: "lg:col-span-2 md:col-span-6 md:row-span-4 lg:min-h-[50vh]",
     imgClassName: "w-full h-full",
