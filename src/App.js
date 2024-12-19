@@ -19,7 +19,7 @@ function App() {
     { name: "Skills", link: "skills" },
     { name: "Experience", link: "workExperience" },
     { name: "RecentProjects", link: "projects" },
-    { name: "Approach", link: "" },
+    { name: "Achievements", link: "achievements" },
     { name: "Contact", link: "contact" },
   ];
 
@@ -40,27 +40,28 @@ function App() {
       />
       <Home />
       
-        <Element name="about">
-          <About />
-        </Element>
-        <Element name="skills">
-          <Skills />
-        </Element>
-        <Element name="workExperience">
-          <Experience />
-        </Element>
-        <Element name="projects">
-          <RecentProjects />
-        </Element>
-        <Element name="achievements">
-          <Achievements />
-        </Element>
-        <Element name="approach">
-          <Approach />
-        </Element>
-        <Element name="contact">
-          <Contact />
-        </Element>
+      <Element name="about">
+        <About />
+      </Element>
+      <Element name="skills">
+        <Skills />
+      </Element>
+      <Element name="workExperience">
+        <Experience />
+      </Element>
+      <Element name="projects">
+        <RecentProjects />
+      </Element>
+      <Element name="achievements">
+        <Achievements />
+      </Element>
+      {/* Add Approach after Achievements */}
+      <Element name="approach">
+        <Approach />
+      </Element>
+      <Element name="contact">
+        <Contact />
+      </Element>
       
     </Router>
   );
